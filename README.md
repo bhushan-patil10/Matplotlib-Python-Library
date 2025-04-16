@@ -44,11 +44,10 @@ This project showcases various data visualization techniques using the powerful 
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 
 - [Matplotlib](https://matplotlib.org/)
 - Pandas
-- Jupyter Notebook (optional but recommended)
+- Jupyter Notebook 
 
 ---
-
 
